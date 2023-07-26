@@ -1,0 +1,10 @@
+camelCase : Usada em nomes de variáveis, parâmetros e campos internos privados
+
+PascalCase: Usada em nomes de classes, métodos e interfaces
+
+Em constantes usar letras maiusculas: CONSTANTES
+
+Sublinhado(_), usar em campos internos e somente leitura e segue o camelCase
+
+
+REF: https://learn.microsoft.com/pt-br/dotnet/csharp/fundamentals/coding-style/coding-conventions
