@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\bin\Debug\net6.0\1ConversaoTipos.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\refint\1ConversaoTipos.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\1ConversaoTipos.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\1ConversaoTipos\obj\Debug\net6.0\ref\1ConversaoTipos.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Caio Molinaro\\Desktop\\caio\\c#\\Exercicios\\ExercicioFase1\\ExercicioFase1.csproj": {}
+    "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\c#_essencial\\Exercicios\\ExercicioFase1\\ExercicioFase1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Caio Molinaro\\Desktop\\caio\\c#\\Exercicios\\ExercicioFase1\\ExercicioFase1.csproj": {
+    "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\c#_essencial\\Exercicios\\ExercicioFase1\\ExercicioFase1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Caio Molinaro\\Desktop\\caio\\c#\\Exercicios\\ExercicioFase1\\ExercicioFase1.csproj",
+        "projectUniqueName": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\c#_essencial\\Exercicios\\ExercicioFase1\\ExercicioFase1.csproj",
         "projectName": "ExercicioFase1",
-        "projectPath": "C:\\Users\\Caio Molinaro\\Desktop\\caio\\c#\\Exercicios\\ExercicioFase1\\ExercicioFase1.csproj",
-        "packagesPath": "C:\\Users\\Caio Molinaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Caio Molinaro\\Desktop\\caio\\c#\\Exercicios\\ExercicioFase1\\obj\\",
+        "projectPath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\c#_essencial\\Exercicios\\ExercicioFase1\\ExercicioFase1.csproj",
+        "packagesPath": "C:\\Users\\cmoli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cmoli\\OneDrive\\Área de Trabalho\\DEV\\PROJETOS\\c#_essencial\\Exercicios\\ExercicioFase1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Caio Molinaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cmoli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

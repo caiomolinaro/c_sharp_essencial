@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\bin\Debug\net6.0\SaidaDados.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\refint\SaidaDados.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\SaidaDados.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\SaidaDados\obj\Debug\net6.0\ref\SaidaDados.dll
