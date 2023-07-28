@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\bin\Debug\net6.0\OperadoresIncrementoDecremento1.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\refint\OperadoresIncrementoDecremento1.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\OperadoresIncrementoDecremento1.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresIncrementoDecremento1\obj\Debug\net6.0\ref\OperadoresIncrementoDecremento1.dll

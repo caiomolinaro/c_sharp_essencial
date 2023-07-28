@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\bin\Debug\net6.0\OperadoresAtribuiçao1.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\bin\Debug\net6.0\OperadoresAtribuiçao1.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\bin\Debug\net6.0\OperadoresAtribuiçao1.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\bin\Debug\net6.0\OperadoresAtribuiçao1.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\bin\Debug\net6.0\OperadoresAtribuiçao1.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\OperadoresAtribuiçao1.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\OperadoresAtribuiçao1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\OperadoresAtribuiçao1.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\OperadoresAtribuiçao1.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\OperadoresAtribuiçao1.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\OperadoresAtribuiçao1.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\refint\OperadoresAtribuiçao1.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\OperadoresAtribuiçao1.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\OperadoresAtribuiçao1.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSFundamentos1\OperadoresAtribuiçao1\obj\Debug\net6.0\ref\OperadoresAtribuiçao1.dll
