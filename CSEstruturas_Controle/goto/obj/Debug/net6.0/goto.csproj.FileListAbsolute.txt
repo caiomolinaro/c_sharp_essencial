@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\goto.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\goto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\goto.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\goto.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\goto.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\bin\Debug\net6.0\goto.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\bin\Debug\net6.0\goto.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\bin\Debug\net6.0\goto.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\bin\Debug\net6.0\goto.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\bin\Debug\net6.0\goto.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\goto.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\refint\goto.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\goto.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\goto.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\goto\obj\Debug\net6.0\ref\goto.dll
