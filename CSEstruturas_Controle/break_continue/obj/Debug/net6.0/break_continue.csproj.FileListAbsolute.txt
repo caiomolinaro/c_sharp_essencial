@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\bin\Debug\net6.0\break_continue.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\bin\Debug\net6.0\break_continue.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\bin\Debug\net6.0\break_continue.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\bin\Debug\net6.0\break_continue.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\bin\Debug\net6.0\break_continue.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\break_continue.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\break_continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\break_continue.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\break_continue.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\break_continue.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\break_continue.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\refint\break_continue.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\break_continue.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\break_continue.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\CSEstruturas_Controle\break_continue\obj\Debug\net6.0\ref\break_continue.dll
