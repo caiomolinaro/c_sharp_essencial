@@ -1,0 +1,15 @@
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\bin\Debug\net6.0\ExercicioN11.exe
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\bin\Debug\net6.0\ExercicioN11.deps.json
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\bin\Debug\net6.0\ExercicioN11.runtimeconfig.json
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\bin\Debug\net6.0\ExercicioN11.dll
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\bin\Debug\net6.0\ExercicioN11.pdb
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\ExercicioN11.csproj.AssemblyReference.cache
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\ExercicioN11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\ExercicioN11.AssemblyInfoInputs.cache
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\ExercicioN11.AssemblyInfo.cs
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\ExercicioN11.csproj.CoreCompileInputs.cache
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\ExercicioN11.dll
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\refint\ExercicioN11.dll
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\ExercicioN11.pdb
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\ExercicioN11.genruntimeconfig.cache
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\ExercicioN11\obj\Debug\net6.0\ref\ExercicioN11.dll

@@ -1,0 +1,15 @@
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\bin\Debug\net6.0\Numero1.exe
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\bin\Debug\net6.0\Numero1.deps.json
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\bin\Debug\net6.0\Numero1.runtimeconfig.json
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\bin\Debug\net6.0\Numero1.dll
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\bin\Debug\net6.0\Numero1.pdb
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\Numero1.csproj.AssemblyReference.cache
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\Numero1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\Numero1.AssemblyInfoInputs.cache
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\Numero1.AssemblyInfo.cs
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\Numero1.csproj.CoreCompileInputs.cache
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\Numero1.dll
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\refint\Numero1.dll
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\Numero1.pdb
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\Numero1.genruntimeconfig.cache
+C:\Users\Caio Molinaro\Desktop\caio\c#\Exercicios_2\Numero1\obj\Debug\net6.0\ref\Numero1.dll
