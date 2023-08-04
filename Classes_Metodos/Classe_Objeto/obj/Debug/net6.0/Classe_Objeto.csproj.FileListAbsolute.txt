@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\bin\Debug\net6.0\Classe_Objeto.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\bin\Debug\net6.0\Classe_Objeto.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\bin\Debug\net6.0\Classe_Objeto.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\bin\Debug\net6.0\Classe_Objeto.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\bin\Debug\net6.0\Classe_Objeto.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\Classe_Objeto.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\Classe_Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\Classe_Objeto.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\Classe_Objeto.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\Classe_Objeto.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\Classe_Objeto.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\refint\Classe_Objeto.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\Classe_Objeto.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\Classe_Objeto.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Classe_Objeto\obj\Debug\net6.0\ref\Classe_Objeto.dll

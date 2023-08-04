@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\bin\Debug\net6.0\Parametros.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\bin\Debug\net6.0\Parametros.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\bin\Debug\net6.0\Parametros.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\bin\Debug\net6.0\Parametros.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\bin\Debug\net6.0\Parametros.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\Parametros.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\Parametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\Parametros.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\Parametros.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\Parametros.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\Parametros.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\refint\Parametros.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\Parametros.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\Parametros.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros\obj\Debug\net6.0\ref\Parametros.dll
