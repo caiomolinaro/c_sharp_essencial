@@ -29,13 +29,13 @@
 //f- Crie novamente os objetos carro1 e carro2 com os mesmos valores usando o construtor criado e invoque o
 //método Acelerar passando o valor do argumento para o parâmetro no método Acelerar
 
-Carro chevrolet = new("Sedan", "Chevrolet", "Onix", 2016, 110);
+Carro chevrolet = new ("Sedan", "Chevrolet", "Onix", 2016, 110);
 
 
 Console.WriteLine($"Modelo: {chevrolet.Modelo}, Montadora: {chevrolet.Montadora}, Marca: {chevrolet.Marca}, Ano: {chevrolet.Ano}, Potencia: {chevrolet.Potencia}");
 chevrolet.Acelerar(chevrolet.Marca);
 
-Carro ford = new("SUV", "Ford", "Ecosport", 2018, 120);
+Carro ford = new ("SUV", "Ford", "Ecosport", 2018, 120);
 
 
 Console.WriteLine($"Modelo: {ford.Modelo}, Montadora: {ford.Montadora}, Marca: {ford.Marca}, Ano: {ford.Ano}, Potencia: {ford.Potencia}");
