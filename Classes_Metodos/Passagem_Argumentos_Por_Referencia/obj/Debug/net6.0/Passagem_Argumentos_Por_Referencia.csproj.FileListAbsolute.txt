@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\bin\Debug\net6.0\Passagem_Argumentos_Por_Referencia.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\bin\Debug\net6.0\Passagem_Argumentos_Por_Referencia.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\bin\Debug\net6.0\Passagem_Argumentos_Por_Referencia.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\bin\Debug\net6.0\Passagem_Argumentos_Por_Referencia.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\bin\Debug\net6.0\Passagem_Argumentos_Por_Referencia.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\Passagem_Argumentos_Por_Referencia.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\Passagem_Argumentos_Por_Referencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\Passagem_Argumentos_Por_Referencia.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\Passagem_Argumentos_Por_Referencia.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\Passagem_Argumentos_Por_Referencia.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\Passagem_Argumentos_Por_Referencia.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\refint\Passagem_Argumentos_Por_Referencia.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\Passagem_Argumentos_Por_Referencia.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\Passagem_Argumentos_Por_Referencia.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passagem_Argumentos_Por_Referencia\obj\Debug\net6.0\ref\Passagem_Argumentos_Por_Referencia.dll

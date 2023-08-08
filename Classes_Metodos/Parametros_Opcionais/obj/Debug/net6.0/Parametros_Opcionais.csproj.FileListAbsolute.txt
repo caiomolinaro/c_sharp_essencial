@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\bin\Debug\net6.0\Parametros_Opcionais.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\bin\Debug\net6.0\Parametros_Opcionais.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\bin\Debug\net6.0\Parametros_Opcionais.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\bin\Debug\net6.0\Parametros_Opcionais.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\bin\Debug\net6.0\Parametros_Opcionais.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\Parametros_Opcionais.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\Parametros_Opcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\Parametros_Opcionais.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\Parametros_Opcionais.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\Parametros_Opcionais.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\Parametros_Opcionais.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\refint\Parametros_Opcionais.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\Parametros_Opcionais.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\Parametros_Opcionais.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Parametros_Opcionais\obj\Debug\net6.0\ref\Parametros_Opcionais.dll

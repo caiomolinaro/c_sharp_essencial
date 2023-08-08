@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\bin\Debug\net6.0\Argumentos_Nomeados.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\bin\Debug\net6.0\Argumentos_Nomeados.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\bin\Debug\net6.0\Argumentos_Nomeados.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\bin\Debug\net6.0\Argumentos_Nomeados.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\bin\Debug\net6.0\Argumentos_Nomeados.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\Argumentos_Nomeados.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\Argumentos_Nomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\Argumentos_Nomeados.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\Argumentos_Nomeados.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\Argumentos_Nomeados.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\Argumentos_Nomeados.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\refint\Argumentos_Nomeados.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\Argumentos_Nomeados.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\Argumentos_Nomeados.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Argumentos_Nomeados\obj\Debug\net6.0\ref\Argumentos_Nomeados.dll

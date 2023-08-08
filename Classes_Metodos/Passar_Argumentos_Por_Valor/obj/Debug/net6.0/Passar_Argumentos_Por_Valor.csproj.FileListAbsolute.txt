@@ -1,0 +1,15 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\bin\Debug\net6.0\Passar_Argumentos_Por_Valor.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\bin\Debug\net6.0\Passar_Argumentos_Por_Valor.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\bin\Debug\net6.0\Passar_Argumentos_Por_Valor.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\bin\Debug\net6.0\Passar_Argumentos_Por_Valor.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\bin\Debug\net6.0\Passar_Argumentos_Por_Valor.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\Passar_Argumentos_Por_Valor.csproj.AssemblyReference.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\Passar_Argumentos_Por_Valor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\Passar_Argumentos_Por_Valor.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\Passar_Argumentos_Por_Valor.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\Passar_Argumentos_Por_Valor.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\Passar_Argumentos_Por_Valor.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\refint\Passar_Argumentos_Por_Valor.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\Passar_Argumentos_Por_Valor.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\Passar_Argumentos_Por_Valor.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Passar_Argumentos_Por_Valor\obj\Debug\net6.0\ref\Passar_Argumentos_Por_Valor.dll
