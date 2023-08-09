@@ -35,8 +35,7 @@ Carro chevrolet = new ("Sedan", "Chevrolet", "Onix", 2016, 110);
 Console.WriteLine($"Modelo: {chevrolet.Modelo}, Montadora: {chevrolet.Montadora}, Marca: {chevrolet.Marca}, Ano: {chevrolet.Ano}, Potencia: {chevrolet.Potencia}");
 chevrolet.Acelerar(chevrolet.Marca);
 
-Carro ford = new ("SUV", "Ford", "Ecosport", 2018, 120);
-
+Carro ford = new("SUV", "Ford", "Ecosport", 2018, 120);
 
 Console.WriteLine($"Modelo: {ford.Modelo}, Montadora: {ford.Montadora}, Marca: {ford.Marca}, Ano: {ford.Ano}, Potencia: {ford.Potencia}");
 ford.Acelerar(ford.Marca);
@@ -72,3 +71,4 @@ public class Carro
     }
 
 }
+
