@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\bin\Debug\net6.0\Structs.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\bin\Debug\net6.0\Structs.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\bin\Debug\net6.0\Structs.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\bin\Debug\net6.0\Structs.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\obj\Debug\net6.0\Structs.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\obj\Debug\net6.0\refint\Structs.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\obj\Debug\net6.0\Structs.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Structs\obj\Debug\net6.0\ref\Structs.dll

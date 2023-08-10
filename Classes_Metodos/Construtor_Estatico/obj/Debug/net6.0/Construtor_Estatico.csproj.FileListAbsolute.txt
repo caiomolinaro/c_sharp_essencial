@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\bin\Debug\net6.0\Construtor_Estatico.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\obj\Debug\net6.0\refint\Construtor_Estatico.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\obj\Debug\net6.0\Construtor_Estatico.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Construtor_Estatico\obj\Debug\net6.0\ref\Construtor_Estatico.dll
