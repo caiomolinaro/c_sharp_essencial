@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\bin\Debug\net6.0\Tipos_Anonimos.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\obj\Debug\net6.0\refint\Tipos_Anonimos.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\obj\Debug\net6.0\Tipos_Anonimos.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Classes_Metodos\Tipos_Anonimos\obj\Debug\net6.0\ref\Tipos_Anonimos.dll
