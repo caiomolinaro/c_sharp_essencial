@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\bin\Debug\net7.0\Array_Foreach.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\bin\Debug\net7.0\Array_Foreach.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\bin\Debug\net7.0\Array_Foreach.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\bin\Debug\net7.0\Array_Foreach.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\bin\Debug\net7.0\Array_Foreach.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\obj\Debug\net7.0\Array_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\obj\Debug\net7.0\Array_Foreach.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\obj\Debug\net7.0\Array_Foreach.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\obj\Debug\net7.0\Array_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\obj\Debug\net7.0\Array_Foreach.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\obj\Debug\net7.0\refint\Array_Foreach.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\obj\Debug\net7.0\Array_Foreach.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\obj\Debug\net7.0\Array_Foreach.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_Foreach\obj\Debug\net7.0\ref\Array_Foreach.dll

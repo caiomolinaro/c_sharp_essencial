@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\bin\Debug\net7.0\Classe_Array.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\bin\Debug\net7.0\Classe_Array.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\bin\Debug\net7.0\Classe_Array.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\bin\Debug\net7.0\Classe_Array.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\bin\Debug\net7.0\Classe_Array.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\obj\Debug\net7.0\Classe_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\obj\Debug\net7.0\Classe_Array.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\obj\Debug\net7.0\Classe_Array.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\obj\Debug\net7.0\Classe_Array.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\obj\Debug\net7.0\Classe_Array.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\obj\Debug\net7.0\refint\Classe_Array.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\obj\Debug\net7.0\Classe_Array.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\obj\Debug\net7.0\Classe_Array.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Classe_Array\obj\Debug\net7.0\ref\Classe_Array.dll

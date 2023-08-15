@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\obj\Debug\net7.0\Exercicio_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\obj\Debug\net7.0\Exercicio_Array.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\obj\Debug\net7.0\Exercicio_Array.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\obj\Debug\net7.0\Exercicio_Array.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\bin\Debug\net7.0\Exercicio_Array.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\bin\Debug\net7.0\Exercicio_Array.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\bin\Debug\net7.0\Exercicio_Array.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\bin\Debug\net7.0\Exercicio_Array.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\bin\Debug\net7.0\Exercicio_Array.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\obj\Debug\net7.0\Exercicio_Array.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\obj\Debug\net7.0\refint\Exercicio_Array.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\obj\Debug\net7.0\Exercicio_Array.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\obj\Debug\net7.0\Exercicio_Array.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Exercicio_Array\obj\Debug\net7.0\ref\Exercicio_Array.dll

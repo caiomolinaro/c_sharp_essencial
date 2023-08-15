@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\bin\Debug\net7.0\Array_laço_for.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\bin\Debug\net7.0\Array_laço_for.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\bin\Debug\net7.0\Array_laço_for.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\bin\Debug\net7.0\Array_laço_for.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\bin\Debug\net7.0\Array_laço_for.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\obj\Debug\net7.0\Array_laço_for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\obj\Debug\net7.0\Array_laço_for.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\obj\Debug\net7.0\Array_laço_for.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\obj\Debug\net7.0\Array_laço_for.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\obj\Debug\net7.0\Array_laço_for.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\obj\Debug\net7.0\refint\Array_laço_for.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\obj\Debug\net7.0\Array_laço_for.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\obj\Debug\net7.0\Array_laço_for.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Arrays_ArraysList_Arrays\Array_laço_for\obj\Debug\net7.0\ref\Array_laço_for.dll
