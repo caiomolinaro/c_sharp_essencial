@@ -1,0 +1,3 @@
+Usar o foreach em arrays unidimensionais
+
+Usar o for para arrays bidimensionais, para ter mais controle sobre os elementos da matriz

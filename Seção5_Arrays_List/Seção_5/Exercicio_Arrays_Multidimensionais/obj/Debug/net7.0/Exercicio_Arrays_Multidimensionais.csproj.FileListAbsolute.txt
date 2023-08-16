@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\bin\Debug\net7.0\Exercicio_Arrays_Multidimensionais.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\bin\Debug\net7.0\Exercicio_Arrays_Multidimensionais.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\bin\Debug\net7.0\Exercicio_Arrays_Multidimensionais.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\bin\Debug\net7.0\Exercicio_Arrays_Multidimensionais.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\bin\Debug\net7.0\Exercicio_Arrays_Multidimensionais.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\obj\Debug\net7.0\Exercicio_Arrays_Multidimensionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\obj\Debug\net7.0\Exercicio_Arrays_Multidimensionais.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\obj\Debug\net7.0\Exercicio_Arrays_Multidimensionais.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\obj\Debug\net7.0\Exercicio_Arrays_Multidimensionais.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\obj\Debug\net7.0\Exercicio_Arrays_Multidimensionais.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\obj\Debug\net7.0\refint\Exercicio_Arrays_Multidimensionais.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\obj\Debug\net7.0\Exercicio_Arrays_Multidimensionais.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\obj\Debug\net7.0\Exercicio_Arrays_Multidimensionais.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_Arrays_Multidimensionais\obj\Debug\net7.0\ref\Exercicio_Arrays_Multidimensionais.dll

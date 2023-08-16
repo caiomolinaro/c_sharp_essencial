@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\bin\Debug\net7.0\Array_Multidimensionais_For_Foreach.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\bin\Debug\net7.0\Array_Multidimensionais_For_Foreach.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\bin\Debug\net7.0\Array_Multidimensionais_For_Foreach.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\bin\Debug\net7.0\Array_Multidimensionais_For_Foreach.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\bin\Debug\net7.0\Array_Multidimensionais_For_Foreach.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\obj\Debug\net7.0\Array_Multidimensionais_For_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\obj\Debug\net7.0\Array_Multidimensionais_For_Foreach.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\obj\Debug\net7.0\Array_Multidimensionais_For_Foreach.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\obj\Debug\net7.0\Array_Multidimensionais_For_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\obj\Debug\net7.0\Array_Multidimensionais_For_Foreach.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\obj\Debug\net7.0\refint\Array_Multidimensionais_For_Foreach.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\obj\Debug\net7.0\Array_Multidimensionais_For_Foreach.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\obj\Debug\net7.0\Array_Multidimensionais_For_Foreach.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Array_Multidimensionais_For_Foreach\obj\Debug\net7.0\ref\Array_Multidimensionais_For_Foreach.dll
