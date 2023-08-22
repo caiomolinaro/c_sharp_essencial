@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\bin\Debug\net7.0\List_T_IEnumerable.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\bin\Debug\net7.0\List_T_IEnumerable.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\bin\Debug\net7.0\List_T_IEnumerable.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\bin\Debug\net7.0\List_T_IEnumerable.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\bin\Debug\net7.0\List_T_IEnumerable.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\obj\Debug\net7.0\List_T_IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\obj\Debug\net7.0\List_T_IEnumerable.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\obj\Debug\net7.0\List_T_IEnumerable.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\obj\Debug\net7.0\List_T_IEnumerable.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\obj\Debug\net7.0\List_T_IEnumerable.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\obj\Debug\net7.0\refint\List_T_IEnumerable.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\obj\Debug\net7.0\List_T_IEnumerable.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\obj\Debug\net7.0\List_T_IEnumerable.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_T_IEnumerable\obj\Debug\net7.0\ref\List_T_IEnumerable.dll

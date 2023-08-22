@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\bin\Debug\net7.0\List_Metodo_Find.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\obj\Debug\net7.0\refint\List_Metodo_Find.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\obj\Debug\net7.0\List_Metodo_Find.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\List_Metodo_Find\obj\Debug\net7.0\ref\List_Metodo_Find.dll

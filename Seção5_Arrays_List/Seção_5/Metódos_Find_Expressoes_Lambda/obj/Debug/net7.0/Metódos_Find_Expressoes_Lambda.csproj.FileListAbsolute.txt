@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\obj\Debug\net7.0\Metódos_Find_Expressoes_Lambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\obj\Debug\net7.0\Metódos_Find_Expressoes_Lambda.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\obj\Debug\net7.0\Metódos_Find_Expressoes_Lambda.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\obj\Debug\net7.0\Metódos_Find_Expressoes_Lambda.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\bin\Debug\net7.0\Metódos_Find_Expressoes_Lambda.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\bin\Debug\net7.0\Metódos_Find_Expressoes_Lambda.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\bin\Debug\net7.0\Metódos_Find_Expressoes_Lambda.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\bin\Debug\net7.0\Metódos_Find_Expressoes_Lambda.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\bin\Debug\net7.0\Metódos_Find_Expressoes_Lambda.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\obj\Debug\net7.0\Metódos_Find_Expressoes_Lambda.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\obj\Debug\net7.0\refint\Metódos_Find_Expressoes_Lambda.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\obj\Debug\net7.0\Metódos_Find_Expressoes_Lambda.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\obj\Debug\net7.0\Metódos_Find_Expressoes_Lambda.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Metódos_Find_Expressoes_Lambda\obj\Debug\net7.0\ref\Metódos_Find_Expressoes_Lambda.dll

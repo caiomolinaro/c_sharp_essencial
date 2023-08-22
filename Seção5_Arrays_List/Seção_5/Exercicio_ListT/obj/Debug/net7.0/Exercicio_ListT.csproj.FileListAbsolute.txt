@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\bin\Debug\net7.0\Exercicio_ListT.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\bin\Debug\net7.0\Exercicio_ListT.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\bin\Debug\net7.0\Exercicio_ListT.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\bin\Debug\net7.0\Exercicio_ListT.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\bin\Debug\net7.0\Exercicio_ListT.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\obj\Debug\net7.0\Exercicio_ListT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\obj\Debug\net7.0\Exercicio_ListT.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\obj\Debug\net7.0\Exercicio_ListT.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\obj\Debug\net7.0\Exercicio_ListT.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\obj\Debug\net7.0\Exercicio_ListT.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\obj\Debug\net7.0\refint\Exercicio_ListT.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\obj\Debug\net7.0\Exercicio_ListT.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\obj\Debug\net7.0\Exercicio_ListT.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Exercicio_ListT\obj\Debug\net7.0\ref\Exercicio_ListT.dll
