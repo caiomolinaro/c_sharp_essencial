@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\bin\Debug\net7.0\Exercicios6.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\bin\Debug\net7.0\Exercicios6.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\bin\Debug\net7.0\Exercicios6.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\bin\Debug\net7.0\Exercicios6.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\bin\Debug\net7.0\Exercicios6.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\obj\Debug\net7.0\Exercicios6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\obj\Debug\net7.0\Exercicios6.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\obj\Debug\net7.0\Exercicios6.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\obj\Debug\net7.0\Exercicios6.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\obj\Debug\net7.0\Exercicios6.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\obj\Debug\net7.0\refint\Exercicios6.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\obj\Debug\net7.0\Exercicios6.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\obj\Debug\net7.0\Exercicios6.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Exercicios\Exercicios\Exercicios6\obj\Debug\net7.0\ref\Exercicios6.dll

@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\bin\Debug\net7.0\Indexers_Indexadores.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\bin\Debug\net7.0\Indexers_Indexadores.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\bin\Debug\net7.0\Indexers_Indexadores.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\bin\Debug\net7.0\Indexers_Indexadores.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\bin\Debug\net7.0\Indexers_Indexadores.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\obj\Debug\net7.0\Indexers_Indexadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\obj\Debug\net7.0\Indexers_Indexadores.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\obj\Debug\net7.0\Indexers_Indexadores.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\obj\Debug\net7.0\Indexers_Indexadores.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\obj\Debug\net7.0\Indexers_Indexadores.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\obj\Debug\net7.0\refint\Indexers_Indexadores.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\obj\Debug\net7.0\Indexers_Indexadores.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\obj\Debug\net7.0\Indexers_Indexadores.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção5_Arrays_List\Seção_5\Indexers_Indexadores\obj\Debug\net7.0\ref\Indexers_Indexadores.dll
