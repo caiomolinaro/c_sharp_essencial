@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\bin\Debug\net7.0\Herança.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\bin\Debug\net7.0\Herança.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\bin\Debug\net7.0\Herança.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\bin\Debug\net7.0\Herança.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\bin\Debug\net7.0\Herança.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\obj\Debug\net7.0\Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\obj\Debug\net7.0\Herança.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\obj\Debug\net7.0\Herança.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\obj\Debug\net7.0\Herança.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\obj\Debug\net7.0\Herança.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\obj\Debug\net7.0\refint\Herança.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\obj\Debug\net7.0\Herança.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\obj\Debug\net7.0\Herança.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança\obj\Debug\net7.0\ref\Herança.dll

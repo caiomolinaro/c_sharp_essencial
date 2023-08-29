@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\bin\Debug\net7.0\Herança_Construtores.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\bin\Debug\net7.0\Herança_Construtores.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\bin\Debug\net7.0\Herança_Construtores.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\bin\Debug\net7.0\Herança_Construtores.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\bin\Debug\net7.0\Herança_Construtores.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\obj\Debug\net7.0\Herança_Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\obj\Debug\net7.0\Herança_Construtores.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\obj\Debug\net7.0\Herança_Construtores.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\obj\Debug\net7.0\Herança_Construtores.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\obj\Debug\net7.0\Herança_Construtores.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\obj\Debug\net7.0\refint\Herança_Construtores.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\obj\Debug\net7.0\Herança_Construtores.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\obj\Debug\net7.0\Herança_Construtores.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Sessão6_POO\Sessão_6\Herança_Construtores\obj\Debug\net7.0\ref\Herança_Construtores.dll
