@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\obj\Debug\net7.0\Exercicio_Herança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\obj\Debug\net7.0\Exercicio_Herança.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\obj\Debug\net7.0\Exercicio_Herança.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\obj\Debug\net7.0\Exercicio_Herança.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\bin\Debug\net7.0\Exercicio_Herança.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\bin\Debug\net7.0\Exercicio_Herança.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\bin\Debug\net7.0\Exercicio_Herança.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\bin\Debug\net7.0\Exercicio_Herança.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\bin\Debug\net7.0\Exercicio_Herança.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\obj\Debug\net7.0\Exercicio_Herança.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\obj\Debug\net7.0\refint\Exercicio_Herança.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\obj\Debug\net7.0\Exercicio_Herança.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\obj\Debug\net7.0\Exercicio_Herança.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Herança\obj\Debug\net7.0\ref\Exercicio_Herança.dll

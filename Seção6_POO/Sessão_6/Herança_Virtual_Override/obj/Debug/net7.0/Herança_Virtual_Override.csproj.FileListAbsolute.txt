@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\bin\Debug\net7.0\Herança_Virtual_Override.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\bin\Debug\net7.0\Herança_Virtual_Override.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\bin\Debug\net7.0\Herança_Virtual_Override.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\bin\Debug\net7.0\Herança_Virtual_Override.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\bin\Debug\net7.0\Herança_Virtual_Override.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\obj\Debug\net7.0\Herança_Virtual_Override.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\obj\Debug\net7.0\Herança_Virtual_Override.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\obj\Debug\net7.0\Herança_Virtual_Override.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\obj\Debug\net7.0\Herança_Virtual_Override.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\obj\Debug\net7.0\Herança_Virtual_Override.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\obj\Debug\net7.0\refint\Herança_Virtual_Override.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\obj\Debug\net7.0\Herança_Virtual_Override.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\obj\Debug\net7.0\Herança_Virtual_Override.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Herança_Virtual_Override\obj\Debug\net7.0\ref\Herança_Virtual_Override.dll

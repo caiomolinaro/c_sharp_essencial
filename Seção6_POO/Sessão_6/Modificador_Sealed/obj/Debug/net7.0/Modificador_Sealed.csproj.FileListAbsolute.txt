@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\bin\Debug\net7.0\Modificador_Sealed.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\bin\Debug\net7.0\Modificador_Sealed.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\bin\Debug\net7.0\Modificador_Sealed.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\bin\Debug\net7.0\Modificador_Sealed.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\bin\Debug\net7.0\Modificador_Sealed.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\obj\Debug\net7.0\Modificador_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\obj\Debug\net7.0\Modificador_Sealed.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\obj\Debug\net7.0\Modificador_Sealed.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\obj\Debug\net7.0\Modificador_Sealed.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\obj\Debug\net7.0\Modificador_Sealed.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\obj\Debug\net7.0\refint\Modificador_Sealed.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\obj\Debug\net7.0\Modificador_Sealed.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\obj\Debug\net7.0\Modificador_Sealed.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Modificador_Sealed\obj\Debug\net7.0\ref\Modificador_Sealed.dll
