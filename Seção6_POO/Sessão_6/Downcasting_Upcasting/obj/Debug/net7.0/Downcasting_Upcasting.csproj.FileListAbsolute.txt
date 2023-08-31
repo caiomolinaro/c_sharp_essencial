@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\bin\Debug\net7.0\Downcasting_Upcasting.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\obj\Debug\net7.0\refint\Downcasting_Upcasting.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\obj\Debug\net7.0\Downcasting_Upcasting.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Downcasting_Upcasting\obj\Debug\net7.0\ref\Downcasting_Upcasting.dll

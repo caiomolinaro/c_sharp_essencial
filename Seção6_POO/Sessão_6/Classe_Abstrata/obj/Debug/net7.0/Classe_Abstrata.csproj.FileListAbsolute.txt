@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\bin\Debug\net7.0\Classe_Abstrata.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\bin\Debug\net7.0\Classe_Abstrata.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\bin\Debug\net7.0\Classe_Abstrata.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\bin\Debug\net7.0\Classe_Abstrata.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\bin\Debug\net7.0\Classe_Abstrata.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\obj\Debug\net7.0\Classe_Abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\obj\Debug\net7.0\Classe_Abstrata.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\obj\Debug\net7.0\Classe_Abstrata.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\obj\Debug\net7.0\Classe_Abstrata.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\obj\Debug\net7.0\Classe_Abstrata.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\obj\Debug\net7.0\refint\Classe_Abstrata.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\obj\Debug\net7.0\Classe_Abstrata.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\obj\Debug\net7.0\Classe_Abstrata.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Classe_Abstrata\obj\Debug\net7.0\ref\Classe_Abstrata.dll
