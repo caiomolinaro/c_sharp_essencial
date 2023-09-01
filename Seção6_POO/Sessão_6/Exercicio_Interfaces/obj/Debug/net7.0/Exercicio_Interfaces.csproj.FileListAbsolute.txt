@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\bin\Debug\net7.0\Exercicio_Interfaces.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\bin\Debug\net7.0\Exercicio_Interfaces.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\bin\Debug\net7.0\Exercicio_Interfaces.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\bin\Debug\net7.0\Exercicio_Interfaces.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\bin\Debug\net7.0\Exercicio_Interfaces.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\obj\Debug\net7.0\Exercicio_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\obj\Debug\net7.0\Exercicio_Interfaces.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\obj\Debug\net7.0\Exercicio_Interfaces.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\obj\Debug\net7.0\Exercicio_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\obj\Debug\net7.0\Exercicio_Interfaces.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\obj\Debug\net7.0\refint\Exercicio_Interfaces.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\obj\Debug\net7.0\Exercicio_Interfaces.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\obj\Debug\net7.0\Exercicio_Interfaces.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exercicio_Interfaces\obj\Debug\net7.0\ref\Exercicio_Interfaces.dll

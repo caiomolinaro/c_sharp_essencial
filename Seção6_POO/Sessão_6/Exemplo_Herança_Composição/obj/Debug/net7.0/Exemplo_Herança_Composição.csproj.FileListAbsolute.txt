@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\bin\Debug\net7.0\Exemplo_Herança_Composição.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\bin\Debug\net7.0\Exemplo_Herança_Composição.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\bin\Debug\net7.0\Exemplo_Herança_Composição.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\bin\Debug\net7.0\Exemplo_Herança_Composição.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\bin\Debug\net7.0\Exemplo_Herança_Composição.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\obj\Debug\net7.0\Exemplo_Herança_Composição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\obj\Debug\net7.0\Exemplo_Herança_Composição.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\obj\Debug\net7.0\Exemplo_Herança_Composição.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\obj\Debug\net7.0\Exemplo_Herança_Composição.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\obj\Debug\net7.0\Exemplo_Herança_Composição.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\obj\Debug\net7.0\refint\Exemplo_Herança_Composição.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\obj\Debug\net7.0\Exemplo_Herança_Composição.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\obj\Debug\net7.0\Exemplo_Herança_Composição.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Sessão_6\Exemplo_Herança_Composição\obj\Debug\net7.0\ref\Exemplo_Herança_Composição.dll
