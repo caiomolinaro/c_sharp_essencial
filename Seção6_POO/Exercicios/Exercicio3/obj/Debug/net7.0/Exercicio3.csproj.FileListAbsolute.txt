@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\bin\Debug\net7.0\Exercicio3.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\bin\Debug\net7.0\Exercicio3.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\bin\Debug\net7.0\Exercicio3.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\bin\Debug\net7.0\Exercicio3.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\bin\Debug\net7.0\Exercicio3.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\obj\Debug\net7.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\obj\Debug\net7.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\obj\Debug\net7.0\Exercicio3.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\obj\Debug\net7.0\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\obj\Debug\net7.0\Exercicio3.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\obj\Debug\net7.0\refint\Exercicio3.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\obj\Debug\net7.0\Exercicio3.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\obj\Debug\net7.0\Exercicio3.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção6_POO\Exercicios\Exercicio3\obj\Debug\net7.0\ref\Exercicio3.dll
