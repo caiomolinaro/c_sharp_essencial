@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\bin\Debug\net7.0\Exercicio_Generics.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\bin\Debug\net7.0\Exercicio_Generics.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\bin\Debug\net7.0\Exercicio_Generics.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\bin\Debug\net7.0\Exercicio_Generics.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\bin\Debug\net7.0\Exercicio_Generics.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\obj\Debug\net7.0\Exercicio_Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\obj\Debug\net7.0\Exercicio_Generics.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\obj\Debug\net7.0\Exercicio_Generics.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\obj\Debug\net7.0\Exercicio_Generics.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\obj\Debug\net7.0\Exercicio_Generics.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\obj\Debug\net7.0\refint\Exercicio_Generics.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\obj\Debug\net7.0\Exercicio_Generics.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\obj\Debug\net7.0\Exercicio_Generics.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Exercicio_Generics\obj\Debug\net7.0\ref\Exercicio_Generics.dll
