@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\bin\Debug\net7.0\Dictionary.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\bin\Debug\net7.0\Dictionary.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\obj\Debug\net7.0\Dictionary.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll

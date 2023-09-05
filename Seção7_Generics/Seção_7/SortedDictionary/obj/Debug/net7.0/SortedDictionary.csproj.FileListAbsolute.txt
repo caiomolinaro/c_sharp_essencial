@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\bin\Debug\net7.0\SortedDictionary.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\bin\Debug\net7.0\SortedDictionary.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\bin\Debug\net7.0\SortedDictionary.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\bin\Debug\net7.0\SortedDictionary.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\bin\Debug\net7.0\SortedDictionary.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\obj\Debug\net7.0\SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\obj\Debug\net7.0\SortedDictionary.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\obj\Debug\net7.0\SortedDictionary.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\obj\Debug\net7.0\SortedDictionary.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\obj\Debug\net7.0\SortedDictionary.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\obj\Debug\net7.0\refint\SortedDictionary.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\obj\Debug\net7.0\SortedDictionary.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\obj\Debug\net7.0\SortedDictionary.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedDictionary\obj\Debug\net7.0\ref\SortedDictionary.dll
