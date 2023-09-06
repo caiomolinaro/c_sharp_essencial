@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\bin\Debug\net7.0\HashSet2.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\bin\Debug\net7.0\HashSet2.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\bin\Debug\net7.0\HashSet2.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\bin\Debug\net7.0\HashSet2.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\bin\Debug\net7.0\HashSet2.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\obj\Debug\net7.0\HashSet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\obj\Debug\net7.0\HashSet2.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\obj\Debug\net7.0\HashSet2.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\obj\Debug\net7.0\HashSet2.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\obj\Debug\net7.0\HashSet2.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\obj\Debug\net7.0\refint\HashSet2.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\obj\Debug\net7.0\HashSet2.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\obj\Debug\net7.0\HashSet2.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\HashSet2\obj\Debug\net7.0\ref\HashSet2.dll

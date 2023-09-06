@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\bin\Debug\net7.0\SortedSet.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\bin\Debug\net7.0\SortedSet.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\bin\Debug\net7.0\SortedSet.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\bin\Debug\net7.0\SortedSet.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\bin\Debug\net7.0\SortedSet.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\obj\Debug\net7.0\SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\obj\Debug\net7.0\SortedSet.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\obj\Debug\net7.0\SortedSet.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\obj\Debug\net7.0\SortedSet.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\obj\Debug\net7.0\SortedSet.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\obj\Debug\net7.0\refint\SortedSet.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\obj\Debug\net7.0\SortedSet.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\obj\Debug\net7.0\SortedSet.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\SortedSet\obj\Debug\net7.0\ref\SortedSet.dll

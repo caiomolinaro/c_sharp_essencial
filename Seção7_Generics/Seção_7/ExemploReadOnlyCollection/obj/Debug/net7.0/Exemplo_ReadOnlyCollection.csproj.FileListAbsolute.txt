@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\bin\Debug\net7.0\Exemplo_ReadOnlyCollection.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\bin\Debug\net7.0\Exemplo_ReadOnlyCollection.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\bin\Debug\net7.0\Exemplo_ReadOnlyCollection.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\bin\Debug\net7.0\Exemplo_ReadOnlyCollection.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\bin\Debug\net7.0\Exemplo_ReadOnlyCollection.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\obj\Debug\net7.0\Exemplo_ReadOnlyCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\obj\Debug\net7.0\Exemplo_ReadOnlyCollection.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\obj\Debug\net7.0\Exemplo_ReadOnlyCollection.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\obj\Debug\net7.0\Exemplo_ReadOnlyCollection.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\obj\Debug\net7.0\Exemplo_ReadOnlyCollection.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\obj\Debug\net7.0\refint\Exemplo_ReadOnlyCollection.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\obj\Debug\net7.0\Exemplo_ReadOnlyCollection.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\obj\Debug\net7.0\Exemplo_ReadOnlyCollection.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Seção_7\ExemploReadOnlyCollection\obj\Debug\net7.0\ref\Exemplo_ReadOnlyCollection.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ExercicioStack_Undo/1.0.0": {
+        "runtime": {
+          "ExercicioStack_Undo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioStack_Undo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
