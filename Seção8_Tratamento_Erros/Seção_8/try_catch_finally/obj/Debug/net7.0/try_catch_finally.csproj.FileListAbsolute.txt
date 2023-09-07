@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\bin\Debug\net7.0\try_catch_finally.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\bin\Debug\net7.0\try_catch_finally.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\bin\Debug\net7.0\try_catch_finally.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\bin\Debug\net7.0\try_catch_finally.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\bin\Debug\net7.0\try_catch_finally.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\obj\Debug\net7.0\try_catch_finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\obj\Debug\net7.0\try_catch_finally.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\obj\Debug\net7.0\try_catch_finally.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\obj\Debug\net7.0\try_catch_finally.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\obj\Debug\net7.0\try_catch_finally.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\obj\Debug\net7.0\refint\try_catch_finally.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\obj\Debug\net7.0\try_catch_finally.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\obj\Debug\net7.0\try_catch_finally.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\try_catch_finally\obj\Debug\net7.0\ref\try_catch_finally.dll

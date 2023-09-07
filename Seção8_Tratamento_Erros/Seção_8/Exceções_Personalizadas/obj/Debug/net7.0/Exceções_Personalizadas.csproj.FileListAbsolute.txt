@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\bin\Debug\net7.0\Exceções_Personalizadas.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\bin\Debug\net7.0\Exceções_Personalizadas.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\bin\Debug\net7.0\Exceções_Personalizadas.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\bin\Debug\net7.0\Exceções_Personalizadas.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\bin\Debug\net7.0\Exceções_Personalizadas.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\obj\Debug\net7.0\Exceções_Personalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\obj\Debug\net7.0\Exceções_Personalizadas.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\obj\Debug\net7.0\Exceções_Personalizadas.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\obj\Debug\net7.0\Exceções_Personalizadas.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\obj\Debug\net7.0\Exceções_Personalizadas.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\obj\Debug\net7.0\refint\Exceções_Personalizadas.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\obj\Debug\net7.0\Exceções_Personalizadas.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\obj\Debug\net7.0\Exceções_Personalizadas.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Exceções_Personalizadas\obj\Debug\net7.0\ref\Exceções_Personalizadas.dll

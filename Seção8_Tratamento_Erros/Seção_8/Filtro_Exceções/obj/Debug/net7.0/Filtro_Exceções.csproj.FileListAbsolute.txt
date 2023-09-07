@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\bin\Debug\net7.0\Filtro_Exceções.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\bin\Debug\net7.0\Filtro_Exceções.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\bin\Debug\net7.0\Filtro_Exceções.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\bin\Debug\net7.0\Filtro_Exceções.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\bin\Debug\net7.0\Filtro_Exceções.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\obj\Debug\net7.0\Filtro_Exceções.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\obj\Debug\net7.0\Filtro_Exceções.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\obj\Debug\net7.0\Filtro_Exceções.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\obj\Debug\net7.0\Filtro_Exceções.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\obj\Debug\net7.0\Filtro_Exceções.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\obj\Debug\net7.0\refint\Filtro_Exceções.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\obj\Debug\net7.0\Filtro_Exceções.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\obj\Debug\net7.0\Filtro_Exceções.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção8_Tratamento_Erros\Seção_8\Filtro_Exceções\obj\Debug\net7.0\ref\Filtro_Exceções.dll
