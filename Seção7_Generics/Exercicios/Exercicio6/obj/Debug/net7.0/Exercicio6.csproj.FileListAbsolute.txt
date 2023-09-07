@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\bin\Debug\net7.0\Exercicio6.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\obj\Debug\net7.0\refint\Exercicio6.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\obj\Debug\net7.0\Exercicio6.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção7_Generics\Exercicios\Exercicio6\obj\Debug\net7.0\ref\Exercicio6.dll
