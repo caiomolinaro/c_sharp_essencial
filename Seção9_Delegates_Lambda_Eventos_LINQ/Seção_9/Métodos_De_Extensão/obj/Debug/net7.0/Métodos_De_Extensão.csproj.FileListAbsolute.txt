@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\bin\Debug\net7.0\Métodos_De_Extensão.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\bin\Debug\net7.0\Métodos_De_Extensão.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\bin\Debug\net7.0\Métodos_De_Extensão.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\bin\Debug\net7.0\Métodos_De_Extensão.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\bin\Debug\net7.0\Métodos_De_Extensão.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\obj\Debug\net7.0\Métodos_De_Extensão.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\obj\Debug\net7.0\Métodos_De_Extensão.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\obj\Debug\net7.0\Métodos_De_Extensão.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\obj\Debug\net7.0\Métodos_De_Extensão.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\obj\Debug\net7.0\Métodos_De_Extensão.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\obj\Debug\net7.0\refint\Métodos_De_Extensão.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\obj\Debug\net7.0\Métodos_De_Extensão.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\obj\Debug\net7.0\Métodos_De_Extensão.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_De_Extensão\obj\Debug\net7.0\ref\Métodos_De_Extensão.dll

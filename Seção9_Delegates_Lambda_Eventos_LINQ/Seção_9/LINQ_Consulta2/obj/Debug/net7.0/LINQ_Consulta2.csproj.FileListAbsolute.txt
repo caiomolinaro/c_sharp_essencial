@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\bin\Debug\net7.0\LINQ_Consulta2.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\bin\Debug\net7.0\LINQ_Consulta2.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\bin\Debug\net7.0\LINQ_Consulta2.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\bin\Debug\net7.0\LINQ_Consulta2.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\bin\Debug\net7.0\LINQ_Consulta2.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\obj\Debug\net7.0\LINQ_Consulta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\obj\Debug\net7.0\LINQ_Consulta2.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\obj\Debug\net7.0\LINQ_Consulta2.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\obj\Debug\net7.0\LINQ_Consulta2.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\obj\Debug\net7.0\LINQ_Consulta2.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\obj\Debug\net7.0\refint\LINQ_Consulta2.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\obj\Debug\net7.0\LINQ_Consulta2.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\obj\Debug\net7.0\LINQ_Consulta2.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\LINQ_Consulta2\obj\Debug\net7.0\ref\LINQ_Consulta2.dll

@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\bin\Debug\net7.0\Métodos_Funções_Anônimas.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\bin\Debug\net7.0\Métodos_Funções_Anônimas.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\bin\Debug\net7.0\Métodos_Funções_Anônimas.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\bin\Debug\net7.0\Métodos_Funções_Anônimas.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\bin\Debug\net7.0\Métodos_Funções_Anônimas.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\obj\Debug\net7.0\Métodos_Funções_Anônimas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\obj\Debug\net7.0\Métodos_Funções_Anônimas.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\obj\Debug\net7.0\Métodos_Funções_Anônimas.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\obj\Debug\net7.0\Métodos_Funções_Anônimas.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\obj\Debug\net7.0\Métodos_Funções_Anônimas.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\obj\Debug\net7.0\refint\Métodos_Funções_Anônimas.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\obj\Debug\net7.0\Métodos_Funções_Anônimas.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\obj\Debug\net7.0\Métodos_Funções_Anônimas.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\Métodos_Funções_Anônimas\obj\Debug\net7.0\ref\Métodos_Funções_Anônimas.dll

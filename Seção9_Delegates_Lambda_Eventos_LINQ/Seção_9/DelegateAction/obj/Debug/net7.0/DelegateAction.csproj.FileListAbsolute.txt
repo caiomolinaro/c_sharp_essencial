@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\bin\Debug\net7.0\DelegateAction.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\bin\Debug\net7.0\DelegateAction.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\bin\Debug\net7.0\DelegateAction.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\bin\Debug\net7.0\DelegateAction.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\bin\Debug\net7.0\DelegateAction.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\obj\Debug\net7.0\DelegateAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\obj\Debug\net7.0\DelegateAction.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\obj\Debug\net7.0\DelegateAction.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\obj\Debug\net7.0\DelegateAction.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\obj\Debug\net7.0\DelegateAction.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\obj\Debug\net7.0\refint\DelegateAction.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\obj\Debug\net7.0\DelegateAction.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\obj\Debug\net7.0\DelegateAction.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\DelegateAction\obj\Debug\net7.0\ref\DelegateAction.dll

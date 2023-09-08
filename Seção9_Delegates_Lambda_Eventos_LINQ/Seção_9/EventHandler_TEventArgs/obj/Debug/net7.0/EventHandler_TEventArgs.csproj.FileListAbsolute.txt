@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\bin\Debug\net7.0\EventHandler_TEventArgs.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\bin\Debug\net7.0\EventHandler_TEventArgs.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\bin\Debug\net7.0\EventHandler_TEventArgs.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\bin\Debug\net7.0\EventHandler_TEventArgs.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\bin\Debug\net7.0\EventHandler_TEventArgs.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\obj\Debug\net7.0\EventHandler_TEventArgs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\obj\Debug\net7.0\EventHandler_TEventArgs.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\obj\Debug\net7.0\EventHandler_TEventArgs.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\obj\Debug\net7.0\EventHandler_TEventArgs.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\obj\Debug\net7.0\EventHandler_TEventArgs.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\obj\Debug\net7.0\refint\EventHandler_TEventArgs.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\obj\Debug\net7.0\EventHandler_TEventArgs.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\obj\Debug\net7.0\EventHandler_TEventArgs.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção9_Delegates_Lambda_Eventos_LINQ\Seção_9\EventHandler_TEventArgs\obj\Debug\net7.0\ref\EventHandler_TEventArgs.dll
