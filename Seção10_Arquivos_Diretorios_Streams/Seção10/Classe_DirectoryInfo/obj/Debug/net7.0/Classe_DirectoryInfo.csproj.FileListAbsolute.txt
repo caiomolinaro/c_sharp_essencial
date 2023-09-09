@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\bin\Debug\net7.0\Classe_DirectoryInfo.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\bin\Debug\net7.0\Classe_DirectoryInfo.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\bin\Debug\net7.0\Classe_DirectoryInfo.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\bin\Debug\net7.0\Classe_DirectoryInfo.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\bin\Debug\net7.0\Classe_DirectoryInfo.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\obj\Debug\net7.0\Classe_DirectoryInfo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\obj\Debug\net7.0\Classe_DirectoryInfo.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\obj\Debug\net7.0\Classe_DirectoryInfo.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\obj\Debug\net7.0\Classe_DirectoryInfo.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\obj\Debug\net7.0\Classe_DirectoryInfo.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\obj\Debug\net7.0\refint\Classe_DirectoryInfo.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\obj\Debug\net7.0\Classe_DirectoryInfo.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\obj\Debug\net7.0\Classe_DirectoryInfo.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Classe_DirectoryInfo\obj\Debug\net7.0\ref\Classe_DirectoryInfo.dll

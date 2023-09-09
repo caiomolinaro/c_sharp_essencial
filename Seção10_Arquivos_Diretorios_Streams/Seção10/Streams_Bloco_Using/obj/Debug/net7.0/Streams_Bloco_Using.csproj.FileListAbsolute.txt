@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\bin\Debug\net7.0\Streams_Bloco_Using.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\bin\Debug\net7.0\Streams_Bloco_Using.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\bin\Debug\net7.0\Streams_Bloco_Using.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\bin\Debug\net7.0\Streams_Bloco_Using.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\bin\Debug\net7.0\Streams_Bloco_Using.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\obj\Debug\net7.0\Streams_Bloco_Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\obj\Debug\net7.0\Streams_Bloco_Using.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\obj\Debug\net7.0\Streams_Bloco_Using.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\obj\Debug\net7.0\Streams_Bloco_Using.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\obj\Debug\net7.0\Streams_Bloco_Using.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\obj\Debug\net7.0\refint\Streams_Bloco_Using.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\obj\Debug\net7.0\Streams_Bloco_Using.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\obj\Debug\net7.0\Streams_Bloco_Using.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção10_Arquivos_Diretorios_Streams\Seção10\Streams_Bloco_Using\obj\Debug\net7.0\ref\Streams_Bloco_Using.dll
