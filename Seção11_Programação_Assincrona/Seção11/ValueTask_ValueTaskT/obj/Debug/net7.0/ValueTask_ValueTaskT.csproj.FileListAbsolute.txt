@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\bin\Debug\net7.0\ValueTask_ValueTaskT.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\bin\Debug\net7.0\ValueTask_ValueTaskT.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\bin\Debug\net7.0\ValueTask_ValueTaskT.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\bin\Debug\net7.0\ValueTask_ValueTaskT.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\bin\Debug\net7.0\ValueTask_ValueTaskT.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\obj\Debug\net7.0\ValueTask_ValueTaskT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\obj\Debug\net7.0\ValueTask_ValueTaskT.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\obj\Debug\net7.0\ValueTask_ValueTaskT.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\obj\Debug\net7.0\ValueTask_ValueTaskT.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\obj\Debug\net7.0\ValueTask_ValueTaskT.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\obj\Debug\net7.0\refint\ValueTask_ValueTaskT.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\obj\Debug\net7.0\ValueTask_ValueTaskT.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\obj\Debug\net7.0\ValueTask_ValueTaskT.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\ValueTask_ValueTaskT\obj\Debug\net7.0\ref\ValueTask_ValueTaskT.dll

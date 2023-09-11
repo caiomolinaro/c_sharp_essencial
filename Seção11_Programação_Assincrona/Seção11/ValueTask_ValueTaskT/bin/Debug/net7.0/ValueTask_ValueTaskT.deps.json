@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ValueTask_ValueTaskT/1.0.0": {
+        "runtime": {
+          "ValueTask_ValueTaskT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ValueTask_ValueTaskT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

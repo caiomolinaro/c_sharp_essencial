@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\obj\Debug\net7.0\Exercicio_Programaçao_Assincrona.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\obj\Debug\net7.0\Exercicio_Programaçao_Assincrona.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\obj\Debug\net7.0\Exercicio_Programaçao_Assincrona.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\obj\Debug\net7.0\Exercicio_Programaçao_Assincrona.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\bin\Debug\net7.0\Exercicio_Programaçao_Assincrona.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\bin\Debug\net7.0\Exercicio_Programaçao_Assincrona.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\bin\Debug\net7.0\Exercicio_Programaçao_Assincrona.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\bin\Debug\net7.0\Exercicio_Programaçao_Assincrona.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\bin\Debug\net7.0\Exercicio_Programaçao_Assincrona.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\obj\Debug\net7.0\Exercicio_Programaçao_Assincrona.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\obj\Debug\net7.0\refint\Exercicio_Programaçao_Assincrona.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\obj\Debug\net7.0\Exercicio_Programaçao_Assincrona.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\obj\Debug\net7.0\Exercicio_Programaçao_Assincrona.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção11_Programação_Assincrona\Seção11\Exercicio_Programaçao_Assincrona\obj\Debug\net7.0\ref\Exercicio_Programaçao_Assincrona.dll
