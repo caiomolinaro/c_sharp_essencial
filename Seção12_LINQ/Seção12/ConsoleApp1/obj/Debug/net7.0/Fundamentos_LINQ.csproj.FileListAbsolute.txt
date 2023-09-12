@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\bin\Debug\net7.0\Fundamentos_LINQ.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\bin\Debug\net7.0\Fundamentos_LINQ.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\bin\Debug\net7.0\Fundamentos_LINQ.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\bin\Debug\net7.0\Fundamentos_LINQ.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\bin\Debug\net7.0\Fundamentos_LINQ.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\obj\Debug\net7.0\Fundamentos_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\obj\Debug\net7.0\Fundamentos_LINQ.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\obj\Debug\net7.0\Fundamentos_LINQ.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\obj\Debug\net7.0\Fundamentos_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\obj\Debug\net7.0\Fundamentos_LINQ.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\obj\Debug\net7.0\refint\Fundamentos_LINQ.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\obj\Debug\net7.0\Fundamentos_LINQ.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\obj\Debug\net7.0\Fundamentos_LINQ.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Seção12\ConsoleApp1\obj\Debug\net7.0\ref\Fundamentos_LINQ.dll

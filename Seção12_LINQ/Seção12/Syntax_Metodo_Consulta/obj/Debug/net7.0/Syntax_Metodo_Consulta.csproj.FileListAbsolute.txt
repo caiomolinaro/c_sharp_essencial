@@ -1,0 +1,14 @@
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\obj\Debug\net7.0\Syntax_Metodo_Consulta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\obj\Debug\net7.0\Syntax_Metodo_Consulta.AssemblyInfoInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\obj\Debug\net7.0\Syntax_Metodo_Consulta.AssemblyInfo.cs
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\obj\Debug\net7.0\Syntax_Metodo_Consulta.csproj.CoreCompileInputs.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\bin\Debug\net7.0\Syntax_Metodo_Consulta.exe
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\bin\Debug\net7.0\Syntax_Metodo_Consulta.deps.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\bin\Debug\net7.0\Syntax_Metodo_Consulta.runtimeconfig.json
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\bin\Debug\net7.0\Syntax_Metodo_Consulta.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\bin\Debug\net7.0\Syntax_Metodo_Consulta.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\obj\Debug\net7.0\Syntax_Metodo_Consulta.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\obj\Debug\net7.0\refint\Syntax_Metodo_Consulta.dll
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\obj\Debug\net7.0\Syntax_Metodo_Consulta.pdb
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\obj\Debug\net7.0\Syntax_Metodo_Consulta.genruntimeconfig.cache
+C:\Users\cmoli\OneDrive\Área de Trabalho\DEV\PROJETOS\c#_essencial\Seção12_LINQ\Seção12\Syntax_Metodo_Consulta\obj\Debug\net7.0\ref\Syntax_Metodo_Consulta.dll
